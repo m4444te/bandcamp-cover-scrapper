@@ -25,3 +25,9 @@ for (var i = 0; i < document.querySelectorAll(".collection-item-art").length; i+
 3. Select all urls given in the console and copy them to urls.txt
 
 4. Clean the urls.txt file so that ``node index.js`` can copy images from urls
+
+5. Download images from urls.txt
+
+```javascript
+node index.js
+```
