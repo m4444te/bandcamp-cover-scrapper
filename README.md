@@ -15,7 +15,9 @@ console.log(document.querySelectorAll(".collection-item-art")[i].src)
 
 2. Select all urls given in the console and copy them to urls.txt
 
-3. Clone and init the project
+3. Clean the urls.txt file 
+
+4. Clone and init the project
    
 ```bash
 git clone git@github.com:m4444te/bandcamp-cover-scrapper.git
